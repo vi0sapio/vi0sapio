@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @coderscoding
-- 👀 I’m interested in Web, Phone Apps and Desktop Apps.
-- 🌱 I’m currently learning Kotlin.
+- 👋 Hi, I’m @acksyndude
+- 👀 I’m interested in engima
 
 <!---
 coderscoding/coderscoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
