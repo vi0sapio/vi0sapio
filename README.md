@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aaares
+- 👋 Hi, I’m Gobind
 - 👀 I’m interested in engima
 - ✨ https://keybase.io/vi_sapio
 <!---
