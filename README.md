@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Gobind
-- 👀 I’m interested in the Change
+- 👋 Hi, I’m Govind
 - ✨ [127.0.0.1](https://127.0.0.1/)
